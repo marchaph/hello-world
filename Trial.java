@@ -5,5 +5,6 @@ public class Trial
     System.out.println("Hello world.");
     System.out.println("Today is Tuesday.");
     System.out.println("Tomorrow is Wednesday!");
+    System.out.print("End of the week.");
   }
 }
